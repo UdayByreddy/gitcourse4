@@ -1,1 +1,1 @@
-This is exe for git commands
+On the first and second days, I installed Ubuntu and learned some CLI commands. Today, I learned some Git commands. I'm excited to learn more and explore new things at MountBlue!
